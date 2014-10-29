@@ -1,0 +1,8 @@
+*.hi
+*.cmx
+*.perf
+*.o
+.svn/
+fhwc
+Notes
+tests/
